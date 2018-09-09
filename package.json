@@ -1,0 +1,24 @@
+{
+  "name": "socketio_chat",
+  "version": "1.0.0",
+  "description": "simple chat application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wensher2sammi/socketio_chat.git"
+  },
+  "author": "owsome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wensher2sammi/socketio_chat/issues"
+  },
+  "homepage": "https://github.com/wensher2sammi/socketio_chat#readme",
+  "dependencies": {
+    "socket.io":"*",
+    "nodejs":"*"
+  }
+}
