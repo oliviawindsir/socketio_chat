@@ -19,6 +19,6 @@
   "homepage": "https://github.com/wensher2sammi/socketio_chat#readme",
   "dependencies": {
     "socket.io":"*",
-    "nodejs":"*"
+    "express":"*"
   }
 }
